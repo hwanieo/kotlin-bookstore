@@ -1,6 +1,5 @@
 package me.hwniieo.bookstore.domain.dto
 
-
 data class BookDto(
     val isbn: String,
     val title: String,
